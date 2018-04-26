@@ -1,0 +1,64 @@
+				ÉÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍ»
+				º  TIC TAC TOE 1.5   º
+				ÈÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍ¼
+
+
+ÉÍ   Created By    Ë  Arkfiend  »
+
+ÌÍ   Origin Idea   Î  Wesleyjp  ¹ 
+
+ÌÍ Data de inicio  Î 23/10/2015 ¹
+
+ÈÍ termino 1.0     Ê 24/10/2015 ¼
+
+
+
+
+1.2 - 29/01/2015
+
+	- Corrigido o erro gerado quando se escolhia
+	  bolinha.
+	- Melhorado o padrao do creditos.txt.
+	- Adicionado o titulo "TIC TAC TOE".
+	- Adicionado erro ao inicializar um bat 
+	  errado no painel.bat.
+
+1.3 - 30/02/2015
+
+	- Foi trocado o sistema das "casas" no h[1,2...bat
+
+1.4 - 03/02/2015
+
+	- Melhorado o sistema de visualização 
+	  do painel.bat ainda em fase de teste.
+
+1.5 - 04/02/2015
+	
+	- Terminado o sistema de visualização do painel.bat
+	- Terminada a versão de AI 2.0 no CPU_2.bat
+	- A primeira jogada agora é aleatória. var.bat
+
+1.6 - 05/02/2015
+
+	- Corrigido um erro quando dava "velha" painel.bat
+	- Corrigido um erro no qual CPU nunca escolhia o 9
+
+1.7 - 09/02/2015
+	
+	- Corrigido o erro no qual a CPU usar sempre o X 
+	  no início do game no var.bat
+	- Adicionada a cor branca quando o jogo acaba,
+	  painel.bat
+	- Corrigido um erro do cpu_2.bat nao ganhando na diagonal
+
+2.0 - 09/02/2015
+
+	- Mudado o sistema de AI apartir do CPU_2.bat 
+	- Iniciado o novo sistema de AI para o CPU_3
+	- Criada a estrutura de pasta para AIs //CPU
+	- Mudado e corrigido o sistema de erro nas diagonais
+	  Antigo CPU_2
+	
+
+
+

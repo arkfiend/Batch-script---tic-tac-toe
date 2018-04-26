@@ -1,0 +1,9 @@
+@echo off
+echo  PST  -  WINS   - NAME
+echo  …Õª
+echo  »Õº     %win%  - %name%
+
+
+
+
+
